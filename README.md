@@ -30,12 +30,11 @@ site se temos atualição da lista, fica no topo da pagina como `extension0.1` s
 Sempre que você baixar uma lista nova de redirecionamentos (ou quiser restaurar um backup), siga estes passos:
 
 1. **Abra a Extensão:** Clique no ícone da extensão na sua barra de ferramentas.
-2. **Acesse as Configurações:** Clique no ícone de engrenagem (**⚙️**) no topo da janelinha. Isso abrirá uma nova aba com as opções de backup.
-3. **Importar o Arquivo:**
+2. **Importar o Arquivo:**
 * Na tela que abriu, clique no botão amarelo **"Importar Backup"**.
 * Uma janela do seu computador será aberta. Localize e selecione o arquivo de lista (ex: `backup_protondb_plus.json`) que você baixou ou salvou anteriormente.
 
 
-4. **Confirmar:** O navegador exibirá um alerta dizendo **"Backup restaurado!"**. Clique em OK.
+3. **Confirmar:** O navegador exibirá um alerta dizendo **"Backup restaurado!"**. Clique em OK.
 
 > **Nota:** Ao importar um arquivo, a lista atual será substituída pela lista contida no arquivo.
