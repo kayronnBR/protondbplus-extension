@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "ProtonDB+ Smart Redirect (Static)",
+  "version": "1.4",
+  "description": "Redireciona buscas do ProtonDB usando uma lista interna pré-definida.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs"]
+}
