@@ -26,7 +26,7 @@ Confirm Installation: Once loaded, the extension will appear in your list. Click
 Checking for Updates: You can check the current version at the top of the extension site (e.g., Extension 0.1).
 
 How to Update: If a new version is released, download the new .zip and extract it, overwriting the files in the existing folder. Then, go back to the "Manage Extensions" page and click Update.
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 Como Instalar a Extensão Manualmente
 Siga o passo a passo abaixo para instalar a extensão via modo de desenvolvedor:
 
